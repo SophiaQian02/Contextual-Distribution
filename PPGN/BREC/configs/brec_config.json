@@ -1,0 +1,25 @@
+{
+    "dataset_name": "BREC",
+    "max_to_keep": 1,
+    "gpu": "3",
+    "num_exp": 1,
+    "exp_name": "null",
+    "val_exist":true,
+    "entropy":false,
+    "rwse":false,
+    "lapse":false,
+    "kernel": true,
+    "m": 10,
+    "K": 8,
+    "architecture": {
+        "block_features": [
+            32,
+            32,
+            32,
+            32,
+            32
+        ],
+        "depth_of_mlp": 1,
+        "new_suffix": true
+    }
+}
