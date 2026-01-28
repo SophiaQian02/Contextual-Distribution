@@ -1,4 +1,4 @@
-# Code for ICML submission
+# Code for Contextual Distribution
 
 This repository contains the implementation of **EntSE** (Entropy-based Structure Encoding) and **KerSE** (Kernel-based Structure Encoding) integrated into three different Graph Neural Network frameworks: **GraphGPS**, **KP-GNN**, and **PPGN**.
 
@@ -81,3 +81,4 @@ python main.py
 ## Requirements
 
 Please refer to the individual folders for specific installation instructions and requirements, as each framework may have different dependencies.
+
